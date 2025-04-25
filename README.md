@@ -35,11 +35,9 @@ These datasets were loaded from the following directory:
 
 
 📎 Future Improvements
-Integrate with a web-based front end using Flask or Streamlit
-
-Add content-based filtering using NLP techniques
-
-Improve scalability and performance with a larger dataset
+- Integrate with a web-based front end using Flask or Streamlit
+- Add content-based filtering using NLP techniques
+- Improve scalability and performance with a larger dataset
 
 Made with ❤️ for learning and sharing.
 
